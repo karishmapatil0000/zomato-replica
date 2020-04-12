@@ -376,7 +376,7 @@ html {
 }
 
 .collections {
-  -ms-grid-row: 2;
+  -ms-grid-row: 1;
   -ms-grid-column: 1;
   grid-area: collection;
   display: block;
@@ -396,7 +396,7 @@ html {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
-  -ms-grid-row: 2;
+  -ms-grid-row: 1;
   -ms-grid-column: 1;
   grid-area: collection;
   -ms-flex-wrap: wrap;
